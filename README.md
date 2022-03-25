@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmy123r&label=Profile%20views&color=0e75b6&style=flat" alt="jimmy123r" /> </p>
 
-- 🌱 I’m currently learning **application development (kotlin), nodejs**
+- 🌱 I’m currently learning **application development (kotlin), nodejs y Machine Learning Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jimmy123r/desarrolloweb](https://github.com/Jimmy123r/desarrolloweb)
 
