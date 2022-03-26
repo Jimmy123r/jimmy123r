@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jimmy123r/desarrolloweb](https://github.com/Jimmy123r/desarrolloweb)
 
-- 📝 I regularly write articles on [https://jimmydario.blogspot.com/](https://jimmydario.blogspot.com/)
+- 📝 I regularly write articles on [https://jimmydario.blogspot.com/](https://jimmydario)
 
 - 📄 Know about my experiences [I was in a lot of paybyt and aptugo courses](I was in a lot of paybyt and aptugo courses)
 
